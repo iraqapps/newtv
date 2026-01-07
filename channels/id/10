@@ -51,11 +51,11 @@
     "id": 10,
     "channel_id": "68",
     "name": "Almanasa",
-    "url": "https://livestream.almanasa.tv:8185/sport/ch9/adaptive.m3u8",
+    "url": "https://sps1.sp-livestream.almanasa.tv:8230/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd",
     "userAgent": "Almanasa-App Android 6.0.9",
     "Referer": "",
     "otherHeaders": "",
-    "scheme": "",
+    "scheme": "Widevine",
     "license": "",
     "headers": ""
   }
