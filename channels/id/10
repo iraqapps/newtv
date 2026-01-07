@@ -50,14 +50,13 @@
 {
     "id": 10,
     "channel_id": "68",
-    "name": "B 1 Yacin",
-    "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "name": "Almanasa",
+    "url": "https://livestream.almanasa.tv:8185/sport/ch9/adaptive.m3u8",
+    "userAgent": "Almanasa-App Android 6.0.9",
     "Referer": "",
-    "otherHeaders": "ok",
-    "ids": "yes",
+    "otherHeaders": "",
     "scheme": "",
     "license": "",
-    "headers": "no"
+    "headers": ""
   }
 ]
