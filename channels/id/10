@@ -54,7 +54,7 @@
     "url": "https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/652350.ts",
     "userAgent": "",
     "Referer": "",
-    "otherHeaders": "nn",
+    "otherHeaders": "Key1:Value1|Key2:Value2",
     "scheme": "",
     "license": "",
     "headers": ""
