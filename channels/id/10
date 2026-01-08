@@ -31,7 +31,7 @@
     "url": "https://dhoomtv.xyz:443/8zpo3GsVY7/beneficial2concern/652386",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
     "Referer": "",
-    "otherHeaders": "",
+    "otherHeaders": "1:1|2:2|3:3|4:4|5:5",
     "scheme": "",
     "license": "",
     "headers": ""
