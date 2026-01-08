@@ -51,11 +51,11 @@
     "id": 10,
     "channel_id": "68",
     "name": "B 1",
-    "url": "https://www.hilal2.icu/x1/234.json?token=12ae44d9bf7ae3c476f36a58cbbd5fc45e8a007d623ccf155de11a5b5636ceaa&expires=1767922931",
-    "userAgent": "",
-    "Referer": "",
+    "url": "https://www.hilal2.sbs/x1/234.json?token=2594046a2cccd355c054f17c93cbd4337b15692b5cc8737149b25a8011b896b8&expires=1767926350",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "Referer": "www.hilal3.cyou",
     "otherHeaders": "",
-    "scheme": "",
+    "scheme": "normal",
     "license": "",
     "headers": ""
   }
