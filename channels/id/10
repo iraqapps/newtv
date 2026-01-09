@@ -52,11 +52,11 @@
     "id": 10,
     "channel_id": "68",
     "name": "Youtube",
-    "url": "https://www.youtube.com/live/mKCieTImjvU?si=roMBYiTcKtL7QVFV",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-    "Referer": "",
+    "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+    "Referer": "https://play.starzon.com/",
     "otherHeaders": "",
-    "scheme": "isweb",
+    "scheme": "",
     "license": "",
     "headers": ""
   }
